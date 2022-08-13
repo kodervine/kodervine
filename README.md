@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I create awesome stuffs with html, CSS, tailwind and Javascript. Eventually hoping to lean towards A.I and specialize on it subsequently
 
-- 🌍 I'm based in Nigeria.
 - 📫  How to reach me - anikwenzekelly@gmail.com
 - 🚀 I'm currently working on Building simple programmes with front end
 - 🧠 I'm learning React and Object Oriented Programming
