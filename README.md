@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I create awesome stuffs with html, CSS, tailwind and Javascript. Eventually hoping to lean towards A.I and specialize on it subsequently
+
+🌍 I'm based in Nigeria.
+📫  How to reach me - anikwenzekelly@gmail.com
+🚀 I'm currently working on Building simple programmes with front end
+🧠 I'm learning React and Object Oriented Programming
+🤝 I'm open to collaborating on Beginner Open source projects
+⚡ Fun fact: I do chat with Google Assistant when I'm bored
