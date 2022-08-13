@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I create awesome stuffs with html, CSS, tailwind and Javascript. Eventually hoping to lean towards A.I and specialize on it subsequently
+I am Chinenye and create awesome stuffs on the client side. I love the intersection between solving problems for the customers, while making their User Experience easy to navigate. Subsequently, I hope to lean more towards A.I and specialize on it to help people in their daily interactions with technology.
 
-- 📫  How to reach me - anikwenzekelly@gmail.com
-- 🚀 I'm currently working on Building simple programmes with front end
+- 💬 My current stacks are HTML, CSS, Bootstrap, Tailwind and Javascript
+- 📫 How to reach me - anikwenzekelly@gmail.com
+- 🚀 I'm currently working on Building simple programmes on the client side
 - 🧠 I'm learning React and Object Oriented Programming
 - 🤝 I'm open to collaborating on Beginner Open source projects
 - ⚡ Fun fact: I do chat with Google Assistant when I'm bored
