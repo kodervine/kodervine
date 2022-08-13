@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I create awesome stuffs on the client side and that's because I love the intersection between solving problems for the customers, while making their User Experience easy to navigate. Subsequently, I hope to lean more towards A.I and specialize on it to help people in their daily interactions with technology.
+I create awesome stuffs on the client side and that's because I love the intersection of solving problems for the customers, while making their User Experience seamless. Subsequently, I hope to lean towards A.I and be a specialist to help people in their daily interactions with technology.
 
 - 💬 My current stacks are HTML, CSS, Bootstrap, Tailwind and Javascript
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🚀 I'm currently working on Building simple programmes on the client side
 - 🧠 I'm learning React and Object Oriented Programming
 - 🤝 I'm open to collaborating on Beginner Open source projects
-- ⚡ Fun fact: I do chat with Google Assistant when I'm bored
+- ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
