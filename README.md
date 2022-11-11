@@ -20,7 +20,7 @@ I create awesome stuffs on the client side and that's because I love the interse
 - 💬 My current stacks are HTML, CSS, Bootstrap, Tailwind and Javascript
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🚀 I'm currently working on Building simple programmes on the client side
-- 🌐 Read [my blog here](https://kodervine.hashnode.dev/)
-- 🧠 I'm learning React and Object Oriented Programming
+- 🌐 Read [my tech blog here](https://kodervine.hashnode.dev/)
+- 🧠 I'm learning React
 - 🤝 I'm open to collaborating on Beginner Open source projects
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
