@@ -19,7 +19,7 @@ I create stunning user-friendly web apps that engage and ease user experience on
 
 - 💬 My tech stack is HTML, CSS, Bootstrap, Tailwind, SASS, Chakra UI and Javascript
 - 📫 How to reach me - anikwenzekelly@gmail.com
-- 🚀 I'm currently working on Building simple programmes on the client side
+- 🚀 I am building features on the client side
 - 🌐 Read [my tech blog here](https://kodervine.hashnode.dev/)
 - 🧠 I'm currently learning React
 - 🤝 I'm open to internship opportunities and collaborating on Beginner Open source projects
