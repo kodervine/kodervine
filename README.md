@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 
 I create stunning user-friendly web apps that engage and ease user experience on the client side and that's because I love the intersection of solving problems for the customers, while making their User Experience seamless. Subsequently, I hope to lean towards A.I and be a specialist to help people in their daily interactions with technology.
+I write about Frontend tools I've used, and how I've overcome coding errors on [my blog here](https://kodervine.hashnode.dev/)
+
 
 - 💬 My tech stack is HTML, CSS, Bootstrap, Tailwind, SASS, Chakra UI and Javascript
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🚀 I am building features on the client side
 - 🌐 Read [my tech blog here](https://kodervine.hashnode.dev/)
-- 🧠 I'm currently learning React
-- 🤝 I'm open to internship opportunities and collaborating on Beginner Open source projects
+- 🧠 I'm currently mastering React
+- 🤝 I'm open to internship opportunities and collaborating on Open source projects
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
 
 ### Skills 
