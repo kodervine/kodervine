@@ -20,7 +20,7 @@ I share details about useful Frontend tools, and also how I resolved coding erro
 
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🌐 Read [my tech blog here](https://kodervine.hashnode.dev/)
-- 🧠 I'm currently mastering React
+- 🧠 I'm currently learning Typescript 
 - 🤝 I'm open to internship opportunities and collaborating on Open source projects
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
 
