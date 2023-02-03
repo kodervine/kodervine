@@ -19,7 +19,7 @@ I create stunning user-friendly web apps that engage and ease user experience on
 I share details about useful Frontend tools, and also how I resolved coding errors while debugging on [my hashnode blog here](https://kodervine.hashnode.dev/)
 
 - 📫 How to reach me - anikwenzekelly@gmail.com
-- 🌐 Read [my tech blog here](https://kodervine.hashnode.dev/)
+- 🌐 Visit my blog [@kodervine's log](https://kodervine.hashnode.dev/)
 - 🧠 I'm currently learning Typescript 
 - 🤝 I'm open to internship opportunities and collaborating on Open source projects
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
@@ -39,6 +39,6 @@ I share details about useful Frontend tools, and also how I resolved coding erro
                   
                   
  <p align="left">  <a href="https://www.github.com/kodervine " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>         
-                      <a href="https://kodervine.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>    
+                      <a href="https://hashnode.com/@kodervine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>    
                       <a href="https://www.linkedin.com/in/chinenye-anikwenze/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   
                       <a href="https://www.twitter.com/kodervine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
