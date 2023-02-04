@@ -1,4 +1,4 @@
-## Hi, I'm Chinenye, a frontend developer and Technical writer 
+## Hi 👋, I'm Chinenye
 
 <!--
 **laskelly/laskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
