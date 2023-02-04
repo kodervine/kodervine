@@ -41,5 +41,4 @@ I share details about useful Frontend tools, and also how I resolved coding erro
                       
 ### Badges
 
-<a href="http://www.github.com/kodervine"><img src="https://github-readme-stats.vercel.app/api?username=kodervine&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=444e59&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="kodervine's GitHub stats" /></a>
 <a href="https://github.com/kodervine" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodervine&langs_count=10&title_color=f97316&text_color=444e59&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
