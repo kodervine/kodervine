@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chinenye
+### Hi 👋, I'm Chinenye
 
 ## Frontend developer + Technical Writer
 
