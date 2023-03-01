@@ -24,7 +24,7 @@ I create stunning user-friendly web apps that engage and ease user experience on
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🌐 Read my blog [@kodervine's log](https://kodervine.hashnode.dev/)
 - 🧠 I'm currently learning Typescript and Nextjs
-- 🤝 I'm open to internship/junior role opportunities and collaborating on Open source projects
+- 🤝 I'm open to junior frontend developer roles and technical writing opportunities
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
 
 ### Skills 
