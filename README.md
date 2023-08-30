@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-I create user-friendly web apps that engage and ease user experience on the client side and that's because I love the intersection of solving problems for the customers, while making their User Experience seamless. Join me in exploring the vast world of Frontend development through my insightful blog posts at [my hashnode blog here](https://kodervine.hashnode.dev)
+I create user-friendly web apps that engage and ease user experience on the client side and that's because I love the intersection of solving problems for the customers, while making their User Experience seamless. I also create articles on frontend libraries and technologies at [my hashnode blog here](https://kodervine.hashnode.dev)
 
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🌐 Read my blog [@kodervine's log](https://kodervine.hashnode.dev/)
@@ -42,8 +42,6 @@ I create user-friendly web apps that engage and ease user experience on the clie
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-
-
 
   
                     
