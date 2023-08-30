@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-I create user-friendly web apps that engage and ease user experience on the client side and that's because I love the intersection of solving problems for the customers, while making their User Experience seamless. I also create articles on frontend libraries and technologies at [my hashnode blog here](https://kodervine.hashnode.dev)
+I create user-friendly web apps that engage and ease user experience on the client side and that's because I love the intersection of solving problems for the customers, while making their User Experience seamless. You can read my articles about frontend libraries and technologies on [my hashnode blog here](https://kodervine.hashnode.dev)
 
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🌐 Read my blog [@kodervine's log](https://kodervine.hashnode.dev/)
