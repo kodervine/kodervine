@@ -23,7 +23,7 @@ I create user-friendly web apps that engage and ease user experience on the clie
 
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🌐 Read my blog [@kodervine's log](https://kodervine.hashnode.dev/)
-- 🧠 I'm currently learning Nextjs and react native
+- 🧠 I'm currently learning React native
 - 🤝 I'm open to technical writing opportunities
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
 
