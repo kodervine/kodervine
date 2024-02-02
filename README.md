@@ -1,4 +1,4 @@
-### Hi 👋, I'm Chinenye
+### Hi 👋, It's Chinenye here
 
 
 ## Software developer
