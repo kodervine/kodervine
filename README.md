@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Chinenye
 
 
-## Software developer && Technical Writer
+## Software developer
 
 <!--
 **laskelly/laskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤝 I'm open to technical writing opportunities
 -->
 
 
@@ -23,8 +24,7 @@ I create user-friendly web apps that engage and ease user experience on the clie
 
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🌐 Read my blog [@kodervine's log](https://kodervine.hashnode.dev/)
-- 🧠 I'm currently learning React native
-- 🤝 I'm open to technical writing opportunities
+- 🧠 I'm currently curious about backend development 
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
 
 ### Skills 
