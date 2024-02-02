@@ -1,7 +1,7 @@
 ### Hi 👋, It's Chinenye here
 
 
-## What I do - Software developer (frontend)
+## What I do - Software development
 
 <!--
 **laskelly/laskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
