@@ -1,6 +1,3 @@
-### Hi 👋, It's Chinenye here (pronounced "chee-neh-nye")
-
-
 ## What I do - Software development
 
 <!--
@@ -17,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🤝 I'm open to technical writing opportunities
-
-profile pic - Photo by Pixabay: https://www.pexels.com/photo/blue-and-white-planet-display-87009/
 -->
 
 
