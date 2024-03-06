@@ -1,4 +1,4 @@
-### Hi 👋, It's Chinenye here
+### Hi 👋, It's Chinenye here (pronounced "chee-neh-nye")
 
 
 ## What I do - Software development
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🤝 I'm open to technical writing opportunities
+
+profile pic - Photo by Pixabay: https://www.pexels.com/photo/blue-and-white-planet-display-87009/
 -->
 
 
@@ -54,3 +56,4 @@ I create user-friendly web apps that engage and ease user experience on the clie
 ### Badges
 
 <a href="https://github.com/kodervine" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodervine&langs_count=10&title_color=f97316&text_color=444e59&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
