@@ -21,10 +21,11 @@ I create user-friendly web apps that engage and ease user experience on the clie
 
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🌐 Read my blog [@kodervine's log](https://kodervine.hashnode.dev/)
-- 🧠 I'm currently curious about backend development 
+- 🌱 I'm currently learning Flutter for mobile development
+- 🧠 I am interested in Backend developer
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
 
-### Skills 
+### Technologies I have worked with
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
