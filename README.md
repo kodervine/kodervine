@@ -23,6 +23,7 @@ I create user-friendly web apps that engage and ease user experience on the clie
 
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🌐 Read my blog [@kodervine's log](https://kodervine.hashnode.dev/)
+- 🔭 Check out my [portfolio](https://chinenyeanikwenze.netlify.app/portfolio)
 - 🧠 I am interested in Backend development (Java and C#)
 
 ### Technologies I have worked with
