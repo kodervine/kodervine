@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🤝 I'm open to technical writing opportunities
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
 - 🌱 I'm currently learning Flutter & Dart for mobile development
+- 🧠 I am interested in Backend development (Java and C#)
 -->
 
 
@@ -24,7 +25,6 @@ I create user-friendly web apps that engage and ease user experience on the clie
 - 📫 How to reach me - anikwenzekelly@gmail.com
 - 🌐 Read my blog [@kodervine's log](https://kodervine.hashnode.dev/)
 - 🔭 Check out my [portfolio](https://chinenyeanikwenze.netlify.app/portfolio)
-- 🧠 I am interested in Backend development (Java and C#)
 
 ### Technologies I have worked with
 <p align="left">
