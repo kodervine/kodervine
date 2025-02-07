@@ -21,7 +21,7 @@ Where to generate the read me files - https://www.profileme.dev/create-profile
 -->
 
 
-I create user-friendly applications that engage and ease user experience on the client side and that's because I love the intersection of solving problems for the customers, while making their User Experience seamless. You can read my articles about frontend libraries and technologies on [my hashnode blog here](https://kodervine.hashnode.dev)
+I create user-friendly applications (on the web and mobile) that engage and ease user experience on the client side and that's because I love the intersection of solving problems for the customers, while making their User Experience seamless. You can read my articles about frontend libraries and technologies on [my hashnode blog here](https://kodervine.hashnode.dev)
 - 📫 How to reach me - neneani.dev@gmail.com
 - 🌱 I'm currently learning Java and C#
 - 🧠 I am interested in Privacy and Security in software
