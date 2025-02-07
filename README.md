@@ -51,7 +51,7 @@ I create user-friendly applications that engage and ease user experience on the 
 ### Socials             
  <p align="left">  <a href="https://www.github.com/kodervine " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>         
                       <a href="https://hashnode.com/@kodervine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>    
-                      <a href="https://www.linkedin.com/in/chinenye-anikwenze/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   
+                      <a href="https://www.linkedin.com/in/chinenye-anikwenze/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
                       <a href="https://www.twitter.com/kodervine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
                       
 ### Badges
