@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🤝 I'm open to technical writing opportunities
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
 - 🧠 I am interested in Backend development (Java and C#)
+- 🌱 I'm currently learning Java and C#
 
 Where to generate the read me files - https://www.profileme.dev/create-profile
 -->
@@ -23,7 +24,6 @@ Where to generate the read me files - https://www.profileme.dev/create-profile
 
 I create user-friendly applications (on the web and mobile) that engage and ease user experience on the client side and that's because I love the intersection of solving problems for the customers, while making their User Experience seamless. You can read my articles about frontend libraries and technologies on [my hashnode blog here](https://kodervine.hashnode.dev)
 - 📫 How to reach me - neneani.dev@gmail.com
-- 🌱 I'm currently learning Java and C#
 - 🧠 I am interested in Privacy and Security in software applications 
 - 🌐 Read my blog [@kodervine's log](https://kodervine.hashnode.dev/)
 - 🔭 Check out my [portfolio](https://chinenyeanikwenze.netlify.app/portfolio)
