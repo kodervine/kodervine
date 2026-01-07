@@ -52,7 +52,6 @@ I create user-friendly web and mobile applications that prioritize the customer.
 * **Automation:** n8n (Cloud & Self-Hosted), Zapier
 * **AI/ML:** Google Gemini API, OpenAI API, Prompt Engineering
 * **Infrastructure:** Vercel (DNS & Deployment), Docker, VPS Management
----
 * **Development:**
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
