@@ -1,4 +1,4 @@
-## What I do - Software development
+## Software Developer & AI Automation Specialist
 
 <!--
 **laskelly/laskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,16 +17,49 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have casual chats with Google Assistant when I'm bored
 - 🧠 I am interested in Backend development (Java and C#)
 - 🌱 I'm currently learning Java and C#
-
-Where to generate the read me files - https://www.profileme.dev/create-profile
--->
-
-
-I create user-friendly applications (on the web and mobile) that engage and ease user experience on the client side and that's because I love the intersection of solving problems for the customers, while making their User Experience seamless. You can read my articles about frontend libraries and technologies on [my hashnode blog here](https://kodervine.hashnode.dev)
 - 📫 How to reach me - neneani.dev@gmail.com
 - 🧠 I am interested in Privacy and Security in software applications 
 - 🌐 Read my blog [@kodervine's log](https://kodervine.hashnode.dev/)
 - 🔭 Check out my [portfolio](https://chinenyeanikwenze.netlify.app/portfolio)
+
+Where to generate the read me files - https://www.profileme.dev/create-profile
+-->
+
+---
+
+I build intelligent, secure, and user-friendly applications. I specialize in the intersection of traditional software development and AI-driven automation, focusing on creating seamless user experiences that are backed by robust security logic.
+
+### 🤖 AI & Automation Expertise
+
+I design and deploy autonomous AI agents and complex workflows that solve real-world business problems.
+
+* **Threat Intelligence:** Built a multi-source security engine (**CySafePath**) that aggregates 10+ OSINT feeds, uses Gemini AI for risk scoring, and delivers automated mitigation briefs.
+* **Process Optimization:** Specialist in self-hosted **n8n** environments, integrating AI into lead generation, marketing, and customer service pipelines.
+* **AI Integration:** Expert in prompt engineering and linking LLMs (like Gemini) to existing business databases and helpdesks.
+
+### 💻 Software Development
+
+I create user-friendly web and mobile applications that prioritize the customer. I love solving complex problems while making the front-end experience feel uncomplicated.
+
+* **Frontend Focus:** Deep experience with modern libraries and frameworks to build responsive, engaging interfaces.
+* **Security First:** I have a strong interest in privacy and security, ensuring that every application I build protects user data.
+
+---
+
+### 🛠️ Technologies & Tools
+
+* **Development:** JavaScript, React, [Insert other languages like Python/Node.js]
+* **Automation:** n8n (Cloud & Self-Hosted), Zapier
+* **AI/ML:** Google Gemini API, OpenAI API, Prompt Engineering
+* **Infrastructure:** Vercel (DNS & Deployment), Docker, VPS Management
+
+---
+
+### 🌐 Connect With Me
+
+* **Email:** [intel@cysafepath.com](mailto:intel@cysafepath.com) (Business) or [neneani.dev@gmail.com](mailto:neneani.dev@gmail.com)
+* **Blog:** [kodervine's log](https://kodervine.hashnode.dev/) - Reading my articles about frontend libraries and security.
+* **Portfolio:** [Check out my work here](https://cysafepath.com)
 
 ### Technologies I have worked with
 <p align="left">
