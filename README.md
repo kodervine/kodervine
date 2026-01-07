@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 Where to generate the read me files - https://www.profileme.dev/create-profile
 -->
 
----
-
 I build intelligent, secure, and user-friendly applications. I specialize in the intersection of traditional software development and AI-driven automation, focusing on creating seamless user experiences that are backed by robust security logic.
 
 ### 🤖 AI & Automation Expertise
@@ -44,17 +42,6 @@ I create user-friendly web and mobile applications that prioritize the customer.
 * **Frontend Focus:** Deep experience with modern libraries and frameworks to build responsive, engaging interfaces.
 * **Security First:** I have a strong interest in privacy and security, ensuring that every application I build protects user data.
 
----
-
-### 🛠️ Technologies & Tools
-
-* **Development:** JavaScript, React, [Insert other languages like Python/Node.js]
-* **Automation:** n8n (Cloud & Self-Hosted), Zapier
-* **AI/ML:** Google Gemini API, OpenAI API, Prompt Engineering
-* **Infrastructure:** Vercel (DNS & Deployment), Docker, VPS Management
-
----
-
 ### 🌐 Connect With Me
 
 * **Email:** [intel@cysafepath.com](mailto:intel@cysafepath.com) (Business) or [neneani.dev@gmail.com](mailto:neneani.dev@gmail.com)
@@ -62,6 +49,11 @@ I create user-friendly web and mobile applications that prioritize the customer.
 * **Portfolio:** [Check out my work here](https://cysafepath.com)
 
 ### Technologies I have worked with
+* **Automation:** n8n (Cloud & Self-Hosted), Zapier
+* **AI/ML:** Google Gemini API, OpenAI API, Prompt Engineering
+* **Infrastructure:** Vercel (DNS & Deployment), Docker, VPS Management
+---
+* **Development:**
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
