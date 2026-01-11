@@ -29,7 +29,7 @@ I build intelligent, secure, and user-friendly applications. I specialize in the
 
 ### AI & Automation Expertise
 
-I design and deploy autonomous AI agents and complex workflows that solve real-world business problems.
+I design and deploy autonomous AI agents and crucial workflows that solve real-world business problems.
 
 * **Threat Intelligence:** Built a multi-source security engine that aggregates 10+ OSINT feeds, uses Gemini AI for risk scoring, and delivers automated mitigation briefs.
 * **Process Optimization:** Specialist in self-hosted **n8n** environments, integrating AI into lead generation, marketing, and customer service pipelines.
@@ -44,9 +44,9 @@ I create user-friendly web and mobile applications that prioritize the customer.
 
 ### Connect With Me
 
-* **Email:** [intel@cysafepath.com](mailto:intel@cysafepath.com) (Business) or [neneani.dev@gmail.com](mailto:neneani.dev@gmail.com)
+* **Email:** [intel@cysafepath.com](mailto:intel@cysafepath.com) (Business) or [anikwenzekelly@gmail.com](mailto:anikwenzekelly@gmail.com)
 * **Blog:** [kodervine's log](https://kodervine.hashnode.dev/) - Reading my articles about frontend libraries and security.
-* **Portfolio:** [Check out my work here](https://cysafepath.com)
+* **Portfolio:** [Check out my work here]([https://cysafepath.com](https://chinenyeanikwenze.netlify.app/portfolio))
 
 ### Technologies I have worked with
 * **Automation:** n8n (Cloud & Self-Hosted), Zapier
